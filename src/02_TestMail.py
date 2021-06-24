@@ -3,7 +3,7 @@ Uso: SMTP
 Creador: Andrés Hernández Mata
 Version: 1.0.0
 Python: 3.9.1
-Fecha: 22 Junio 2021
+Fecha: 23 Junio 2021
 """
 
 import smtplib
